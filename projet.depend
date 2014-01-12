@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1389096758 source:/home/spectrenoir/projet/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"couleursTerminal.h"
+	"fonction.h"
+
+1385740026 /home/spectrenoir/projet/couleursTerminal.h
+	"stdio.h"
+
+1386317523 /home/spectrenoir/projet/fonction.h
+
